@@ -1,0 +1,29 @@
+{
+  "name": "Inzamam Ahmad",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Full Stack Web Developer. Learning DevOps and Web3. ",
+  "avatar": "https://github.com/inzamamahmad3.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/hayeinzi",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/inzamam._.ahmad/",
+      "icon": "FaInstagram"
+    },
+    {
+      "name": "Connect with me in LinkedIn",
+      "url": "https://www.linkedin.com/in/inzamam-ahmad/",
+      "icon": "FaLinkedIn"
+    },
+    {
+     "name": "Add me on Github",
+      "url": "https://github.com/inzamamahmad3",
+      "icon": "FaGithub"
+    }
+  ]
+}
